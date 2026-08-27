@@ -32,39 +32,109 @@
 
 ### 阶段 1：完成第一次实用对话
 
-1. [认识 AI](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai)
-2. [开始对话](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat)
-3. [改进并检查](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check)
+#### 第 1 课：[认识 AI](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai)
+
+了解生成式 AI 对话如何运作，以及 AI 能如何帮助日常任务。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai)
+
+#### 第 2 课：[开始对话](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat)
+
+使用日常语言请 AI 提供一个简单、有用的结果。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat)
+
+#### 第 3 课：[改进并检查](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check)
+
+在同一对话中优化回答，使其可用并核对重要信息。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check)
 
 ### 阶段 2：让 AI 适合你的实际情况
 
-4. [说清真正重要的情况](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters)
-5. [比较不同的安排](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans)
-6. [根据真实反馈调整](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback)
+#### 第 4 课：[说清真正重要的情况](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters)
+
+向 AI 提供影响方案的信息，同时明确哪些事项由人决定。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters)
+
+#### 第 5 课：[比较不同的安排](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans)
+
+比较两份 AI 方案，核查其中的说法并找出真实不一致。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans)
+
+#### 第 6 课：[根据真实反馈调整](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback)
+
+根据真实反馈修改 AI 方案，同时把最终决定留给人。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback)
 
 ### 阶段 3：先问清楚，再继续
 
-7. [找出缺少的信息](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing)
-8. [不猜，先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing)
-9. [根据确认结果更新](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers)
+#### 第 7 课：[找出缺少的信息](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing)
+
+继续使用 AI 前，先分理已确认的事实、提议、冲突和缺口。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing)
+
+#### 第 8 课：[不猜，先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing)
+
+找出草稿无法回答的问题，并向合适的人询问。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing)
+
+#### 第 9 课：[根据确认结果更新](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers)
+
+把已确认的回复整理成可用材料，不隐藏预计值和未完成行动。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers)
 
 ### 阶段 4：先核实，再采用
 
-10. [找出要核对的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check)
-11. [打开真正适用的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page)
-12. [整理一份核对过的参观笔记](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note)
+#### 第 10 课：[找出要核对的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check)
+
+用 AI 查找官方页面，但不把它的回答当作证据。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check)
+
+#### 第 11 课：[打开真正适用的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page)
+
+检查官方页面是否适用，并保留页面之间的不一致。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page)
+
+#### 第 12 课：[整理一份核对过的参观笔记](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note)
+
+把核对过的事实整理成包含待定选择、复查项和链接的实用笔记。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note)
 
 ### 阶段 5：根据实际执行改进计划
 
-13. [看看实际发生了什么](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened)
-14. [调整之前先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change)
-15. [做一次有根据的小调整](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-one-useful-change) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-one-useful-change)
+#### 第 13 课：[看看实际发生了什么](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened)
+
+比较计划与实际执行情况，不猜测变化原因。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened)
+
+#### 第 14 课：[调整之前先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change)
+
+变化显示问题却无法说明原因时，先用中性问题取得回答。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change)
+
+#### 第 15 课：[做一次有根据的小调整](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-one-useful-change)
+
+保留有效的部分，试行一项有依据的调整，并准备一次聚焦的复查。
+
+[开始本课 →](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-one-useful-change)
 
 ## 关于 AI 小课
 
 [AI 小课](https://ailesson.io) 面向 AI 初学者，通过互动式实战课程帮助你掌握可以迁移到真实任务中的 AI 使用方法。
 
-<p align="center">
+<p align="left">
   <a href="https://ailesson.io">
     <img src="https://ailesson.io/brand/ailesson-favicon-64.png" alt="AILesson" width="64">
   </a>
