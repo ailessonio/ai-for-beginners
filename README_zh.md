@@ -28,33 +28,33 @@
 
 你不需要技术背景，也不需要特殊措辞。学完后，你会有一套实用的做法：开始一次 AI 对话，让结果变得更有用，核对真正重要的内容，并知道什么时候不该继续问 AI，而该由自己采取行动。
 
-## 课程路线
+## 课程内容
 
-### 完成第一次实用对话
+### 阶段 1：完成第一次实用对话
 
 1. [认识 AI](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/meet-ai)
 2. [开始对话](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/start-a-chat)
 3. [改进并检查](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/improve-and-check)
 
-### 让 AI 适合你的实际情况
+### 阶段 2：让 AI 适合你的实际情况
 
 4. [说清真正重要的情况](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/share-what-matters)
 5. [比较不同的安排](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/compare-possible-plans)
 6. [根据真实反馈调整](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback)
 
-### 先问清楚，再继续
+### 阶段 3：先问清楚，再继续
 
 7. [找出缺少的信息](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-what-is-missing)
 8. [不猜，先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-instead-of-guessing)
 9. [根据确认结果更新](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/update-with-confirmed-answers)
 
-### 先核实，再采用
+### 阶段 4：先核实，再采用
 
 10. [找出要核对的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/find-pages-to-check)
 11. [打开真正适用的页面](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/open-the-right-page)
 12. [整理一份核对过的参观笔记](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/make-a-checked-visit-note)
 
-### 根据实际执行改进计划
+### 阶段 5：根据实际执行改进计划
 
 13. [看看实际发生了什么](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/see-what-happened)
 14. [调整之前先问清楚](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change) — [开始本课](https://ailesson.io/zh/courses/ai-for-beginners/lessons/ask-before-you-change)

@@ -28,33 +28,33 @@ You will not just watch perfect examples. You choose the job for AI, tell it wha
 
 You need no technical background and no special wording. By the end, you will have a practical way to start an AI conversation, make the result more useful, check what matters, and know when to stop asking AI and act yourself.
 
-## Course roadmap
+## Lessons
 
-### Complete Your First Useful Conversation
+### Stage 1: Complete Your First Useful Conversation
 
 1. [Meet AI](https://ailesson.io/courses/ai-for-beginners/lessons/meet-ai) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/meet-ai)
 2. [Start a Chat](https://ailesson.io/courses/ai-for-beginners/lessons/start-a-chat) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/start-a-chat)
 3. [Improve and Check](https://ailesson.io/courses/ai-for-beginners/lessons/improve-and-check) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/improve-and-check)
 
-### Make AI Work with Your Situation
+### Stage 2: Make AI Work with Your Situation
 
 4. [Share What Matters](https://ailesson.io/courses/ai-for-beginners/lessons/share-what-matters) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/share-what-matters)
 5. [Compare Possible Plans](https://ailesson.io/courses/ai-for-beginners/lessons/compare-possible-plans) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/compare-possible-plans)
 6. [Adjust It with Real Feedback](https://ailesson.io/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/adjust-it-with-real-feedback)
 
-### Clarify Before You Continue
+### Stage 3: Clarify Before You Continue
 
 7. [Find What Is Missing](https://ailesson.io/courses/ai-for-beginners/lessons/find-what-is-missing) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/find-what-is-missing)
 8. [Ask Instead of Guessing](https://ailesson.io/courses/ai-for-beginners/lessons/ask-instead-of-guessing) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/ask-instead-of-guessing)
 9. [Update with Confirmed Answers](https://ailesson.io/courses/ai-for-beginners/lessons/update-with-confirmed-answers) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/update-with-confirmed-answers)
 
-### Check Before You Rely
+### Stage 4: Check Before You Rely
 
 10. [Find Pages to Check](https://ailesson.io/courses/ai-for-beginners/lessons/find-pages-to-check) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/find-pages-to-check)
 11. [Open the Right Page](https://ailesson.io/courses/ai-for-beginners/lessons/open-the-right-page) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/open-the-right-page)
 12. [Make a Checked Visit Note](https://ailesson.io/courses/ai-for-beginners/lessons/make-a-checked-visit-note) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/make-a-checked-visit-note)
 
-### Improve a Plan After Real Use
+### Stage 5: Improve a Plan After Real Use
 
 13. [See What Happened](https://ailesson.io/courses/ai-for-beginners/lessons/see-what-happened) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/see-what-happened)
 14. [Ask Before You Change](https://ailesson.io/courses/ai-for-beginners/lessons/ask-before-you-change) — [Start lesson](https://ailesson.io/courses/ai-for-beginners/lessons/ask-before-you-change)
