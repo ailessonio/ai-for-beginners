@@ -63,3 +63,9 @@ You need no technical background and no special wording. By the end, you will ha
 ## About AILesson
 
 [AILesson](https://ailesson.io) helps AI beginners build practical, transferable skills through interactive, task-based courses.
+
+<p align="center">
+  <a href="https://ailesson.io">
+    <img src="https://ailesson.io/brand/ailesson-favicon-64.png" alt="AILesson" width="64">
+  </a>
+</p>

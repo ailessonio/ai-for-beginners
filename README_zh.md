@@ -63,3 +63,9 @@
 ## 关于 AI 小课
 
 [AI 小课](https://ailesson.io) 面向 AI 初学者，通过互动式实战课程帮助你掌握可以迁移到真实任务中的 AI 使用方法。
+
+<p align="center">
+  <a href="https://ailesson.io">
+    <img src="https://ailesson.io/brand/ailesson-favicon-64.png" alt="AILesson" width="64">
+  </a>
+</p>
