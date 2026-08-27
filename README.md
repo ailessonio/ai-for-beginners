@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ailesson.io/courses/ai-for-beginners">
-    <img src="https://ailesson.io/content-assets/sha256/3b/65/3b65f084ba14ef8c8345260141059ba1130ca0cbc74a74b5772c85fda6b58dc8.png" alt="AI for Beginners" width="420">
+    <img src="https://ailesson.io/content-assets/sha256/3b/65/3b65f084ba14ef8c8345260141059ba1130ca0cbc74a74b5772c85fda6b58dc8.png" alt="AI for Beginners" width="360">
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Perhaps you have opened an AI chat, looked at the empty message box, and wondere
 AI becomes useful when you give it a small, clear job—and when you know which parts of the result still need your judgment. In this course, you learn that by doing, not by memorizing technical terms or a “perfect” Prompt.
 
 <p align="center">
-  <img src="https://ailesson.io/content-assets/sha256/52/22/5222ad6aca22a78515fd2707b4ce4166aaed6797bd3a811faba3ce023b6af7f7.png" alt="A long notice moves through an AI conversation into a checklist and reminder, while a magnifying glass compares the result with the source." width="420">
+  <img src="https://ailesson.io/content-assets/sha256/52/22/5222ad6aca22a78515fd2707b4ce4166aaed6797bd3a811faba3ce023b6af7f7.png" alt="A long notice moves through an AI conversation into a checklist and reminder, while a magnifying glass compares the result with the source." width="360">
 </p>
 
 You begin with a long notice and finish by improving a plan after people have actually tried it. Along the way, the situations become less tidy: there may be several workable choices, an important answer may be missing, or a webpage may have changed. Each challenge gives you one more move you can reuse.

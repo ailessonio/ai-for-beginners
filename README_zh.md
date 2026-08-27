@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ailesson.io/zh/courses/ai-for-beginners">
-    <img src="https://ailesson.io/content-assets/sha256/3b/65/3b65f084ba14ef8c8345260141059ba1130ca0cbc74a74b5772c85fda6b58dc8.png" alt="写给新手的 AI 入门课" width="420">
+    <img src="https://ailesson.io/content-assets/sha256/3b/65/3b65f084ba14ef8c8345260141059ba1130ca0cbc74a74b5772c85fda6b58dc8.png" alt="写给新手的 AI 入门课" width="360">
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 当你交给 AI 一项小而明确的工作，并知道结果的哪些部分仍要自己判断，AI 才真正变得有用。这门课不会让你背技术术语或“完美”的提示语，而是带你直接动手。
 
 <p align="center">
-  <img src="https://ailesson.io/content-assets/sha256/52/22/5222ad6aca22a78515fd2707b4ce4166aaed6797bd3a811faba3ce023b6af7f7.png" alt="一则长通知经过 AI 对话变成清单和提醒，放大镜同时把结果与原始内容进行比较。" width="420">
+  <img src="https://ailesson.io/content-assets/sha256/52/22/5222ad6aca22a78515fd2707b4ce4166aaed6797bd3a811faba3ce023b6af7f7.png" alt="一则长通知经过 AI 对话变成清单和提醒，放大镜同时把结果与原始内容进行比较。" width="360">
 </p>
 
 你会从读懂一则长通知开始，最后根据几个人实际试用的情况改进一份计划。一路上，情况会逐渐变得不那么整齐：也许有多个可行选择，也许关键答案缺失，也许网页内容已经变化。每遇到一种难题，你都会多掌握一个可以继续使用的动作。
