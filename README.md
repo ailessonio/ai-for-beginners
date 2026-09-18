@@ -2,7 +2,7 @@
 
 # AI for Beginners
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Français](README_fr.md) · [Español](README_es.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [العربية](README_ar.md)
 
 <p align="center">
   <a href="https://ailesson.io/courses/ai-for-beginners">
@@ -26,7 +26,25 @@ You begin with a long notice and finish by improving a plan after people have ac
 
 You will not just watch perfect examples. You choose the job for AI, tell it what matters, continue the conversation, and notice when an answer leaves out or changes an important fact. You learn which questions need an answer from a person and which claims need checking on the original page. AI can reorganize information, suggest possibilities, and revise a draft. It cannot make a missing fact appear, turn a proposal into a decision, or prove its own answer correct.
 
-You need no technical background and no special wording. By the end, you will have a practical way to start an AI conversation, make the result more useful, check what matters, and know when to stop asking AI and act yourself.
+By the end, you will have a practical way to start an AI conversation, make the result more useful, check what matters, and know when to stop asking AI and act yourself.
+
+## Frequently asked questions
+
+### Is this Course suitable if I have never used AI?
+
+Yes. You only need basic webpage or touchscreen reading skills. No technical background, AI vocabulary, or special Prompt style is assumed.
+
+### Do I need an AI account or a particular product?
+
+No. The Lessons use preset, reviewable AI conversations inside AILesson. Trying a real AI tool afterward is optional and remains subject to that product's age, region, account, privacy, and access rules.
+
+### Will I need to share my own information?
+
+No. The Course provides the practice situations. When transferring the method to your own task, share only material the task needs and leave out private or sensitive information.
+
+### What will this Course prepare me to do?
+
+You will be able to start and continue a useful AI conversation, notice missing or changed facts, check important claims, and decide when to ask a person or act yourself. The Course does not cover every AI product feature or make AI answers automatically reliable.
 
 ## Lessons
 
